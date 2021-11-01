@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\MedCenter2\MedCenterData\bin\Debug\MedCenterData.dll.config
+C:\Users\Asus\source\repos\MedCenter2\MedCenterData\bin\Debug\MedCenterData.dll
+C:\Users\Asus\source\repos\MedCenter2\MedCenterData\bin\Debug\MedCenterData.pdb
+C:\Users\Asus\source\repos\MedCenter2\MedCenterData\obj\Debug\MedCenterData.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\MedCenter2\MedCenterData\obj\Debug\MedCenterData.dll
+C:\Users\Asus\source\repos\MedCenter2\MedCenterData\obj\Debug\MedCenterData.pdb
+C:\Users\Asus\source\repos\MedCenter2\MedCenterData\obj\Debug\MedCenterData.csprojAssemblyReference.cache

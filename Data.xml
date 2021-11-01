@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Doctor>
+    <Name>Олександров В.І.</Name>
+    <Education>НМУ</Education>
+    <Vector>Кардіологія</Vector>
+  </Doctor>
+  <Doctor>
+    <Name>Петров М.В.</Name>
+    <Education>НМУ Богомольця</Education>
+    <Vector>Кардіологія</Vector>
+  </Doctor>
+  <Doctor>
+    <Name>Абрамов А.В.</Name>
+    <Education>НМУ</Education>
+    <Vector>Кардіологія</Vector>
+  </Doctor>
+  <Doctor>
+    <Name>Алексєєв Д.М.</Name>
+    <Education>ЗДМУ</Education>
+    <Vector>Кардіологія</Vector>
+  </Doctor>
+  <Doctor>
+    <Name>Антонов К.Н.</Name>
+    <Education>ОНМУ</Education>
+    <Vector>Кардіологія</Vector>
+  </Doctor>
+  <Doctor>
+    <Name>Артемченко В.П.</Name>
+    <Education>НМУ Богомольця</Education>
+    <Vector>Кардіологія</Vector>
+  </Doctor>
+</NewDataSet>
